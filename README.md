@@ -1,6 +1,6 @@
 # Distributary
 
-TODO: Write a gem description
+Distribute webhooks to multiple recipients, especially for apps that support only one webhook url.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	Coming Soon
 
 ## Contributing
 
